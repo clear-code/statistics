@@ -19,4 +19,9 @@
 2017-04-04,kou,parquet-cpp,info,https://github.com/apache/parquet-cpp/pull/290#issuecomment-291356052
 2017-04-04,kou,arrow,patch,https://github.com/apache/arrow/pull/490
 2017-04-04,piro,mozilla,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1276600
-2017-04-05,cosmo0920,patch,https://github.com/choplin/fluent-plugin-pgjson/pull/11
+2017-04-05,cosmo0920,fluent-plugin-pgjson,patch,https://github.com/choplin/fluent-plugin-pgjson/pull/11
+2017-04-06,cosmo0920,fluent-plugin-pghstore,patch,https://github.com/shirou/fluent-plugin-pghstore/pull/8
+2017-04-06,cosmo0920,fluent-plugin-pghstore,patch,https://github.com/shirou/fluent-plugin-pghstore/pull/9
+2017-04-06,cosmo0920,groonga,report,https://github.com/groonga/groonga/issues/647
+2017-04-06,cosmo0920,fluent-plugin-pghstore,patch,https://github.com/shirou/fluent-plugin-pghstore/pull/10
+2017-04-06,cosmo0920,fluent-plugin-output-solr,patch,https://github.com/mosuka/fluent-plugin-output-solr/pull/4
