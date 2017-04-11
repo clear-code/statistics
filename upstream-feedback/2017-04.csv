@@ -33,3 +33,5 @@
 2017-04-07,cosmo0920,fluent-plugin-kubernetes,patch,https://github.com/fabric8io/fluent-plugin-kubernetes/pull/2
 2017-04-07,cosmo0920,fluent-plugin-kubernetes_metadata_filter,patch,https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter/pull/65
 2017-04-08,kou,arrow,patch,https://github.com/apache/arrow/pull/509
+2017-04-10,okkez,fluentd-plugin-logzio,report,https://github.com/logzio/fluentd-plugin-logzio/issues/8
+2017-04-10,ashie,meta-renesas,report,https://github.com/renesas-rz/meta-renesas/issues/4
