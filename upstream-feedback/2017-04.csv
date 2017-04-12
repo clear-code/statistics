@@ -35,3 +35,17 @@
 2017-04-08,kou,arrow,patch,https://github.com/apache/arrow/pull/509
 2017-04-10,okkez,fluentd-plugin-logzio,report,https://github.com/logzio/fluentd-plugin-logzio/issues/8
 2017-04-10,ashie,renesas-rz/meta-renesas,report,https://github.com/renesas-rz/meta-renesas/issues/4
+2017-04-11,okkez,fluentd,patch,https://github.com/fluent/fluentd-website/pull/28
+2017-04-11,kou,redmine_full_text_search,patch,https://github.com/okkez/redmine_full_text_search/pull/23
+2017-04-11,kou,redmine_full_text_search,report,https://github.com/okkez/redmine_full_text_search/pull/24
+2017-04-11,kenhys,fluentd-docs,report,https://github.com/fluent/fluentd-docs/issues/265
+2017-04-11,komainu8,groonga-query-log,patch,https://github.com/groonga/groonga-query-log/pull/5
+2017-04-11,cosmo0920,fluent-plugin-hipchat,patch,https://github.com/hotchpotch/fluent-plugin-hipchat/pull/15
+2017-04-11,komainu8,groonga-query-log,report,https://github.com/groonga/groonga-query-log/pull/6
+2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/522
+2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/523
+2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/524
+2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/525
+2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/526
+2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/527
+2017-04-12,okkez,groonga-client,report,https://github.com/ranguba/groonga-client/issues/12
