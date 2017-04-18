@@ -49,13 +49,13 @@
 2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/526
 2017-04-11,kou,arrow,patch,https://github.com/apache/arrow/pull/527
 2017-04-12,okkez,groonga-client,report,https://github.com/ranguba/groonga-client/issues/12
-2017-04-14,cosmo0920,fluent/fluent-logger-golang,patch,https://github.com/fluent/fluent-logger-golang/pull/48
 2017-04-12,kenhys,fluent/fluentd,report,https://github.com/fluent/fluentd/issues/1538
 2017-04-12,kenhys,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1537
+2017-04-12,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/530
+2017-04-12,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/531
+2017-04-14,cosmo0920,fluent/fluent-logger-golang,patch,https://github.com/fluent/fluent-logger-golang/pull/48
 2017-04-14,kenhys,chef/bento,patch,https://github.com/chef/bento/pull/787
 2017-04-17,komainu8,groonga/groonga-query-log,patch,https://github.com/groonga/groonga-query-log/pull/8
 2017-04-17,okkez,cloudfoundry-community/fluent-plugin-nats,patch,https://github.com/cloudfoundry-community/fluent-plugin-nats/pull/7
 2017-04-17,okkez,cloudfoundry-community/fluent-plugin-nats,patch,https://github.com/cloudfoundry-community/fluent-plugin-nats/pull/8
 2017-04-17,cosmo0920,winebarrel/fluent-plugin-dd,patch,https://github.com/winebarrel/fluent-plugin-dd/pull/6
-2017-04-12,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/530
-2017-04-12,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/531
