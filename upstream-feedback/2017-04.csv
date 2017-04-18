@@ -49,7 +49,9 @@
 2017-04-11,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/526
 2017-04-11,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/527
 2017-04-12,okkez,ranguba/groonga-client,report,https://github.com/ranguba/groonga-client/issues/12
+2017-04-12,kou,fluent/fluentd,find,https://github.com/fluent/fluentd/issues/1538
 2017-04-12,kenhys,fluent/fluentd,report,https://github.com/fluent/fluentd/issues/1538
+2017-04-12,kou,fluent/fluentd,find,https://github.com/fluent/fluentd/pull/1537
 2017-04-12,kenhys,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1537
 2017-04-12,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/530
 2017-04-12,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/531
