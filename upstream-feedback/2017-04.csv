@@ -127,3 +127,4 @@
 2017-04-26,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/603
 2017-04-26,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/604
 2017-04-27,okkez,fluent/fluentd,report,https://github.com/fluent/fluentd/issues/1553
+2017-04-27,okkez,katsyoshi/fluent-plugin-serialport,patch,https://github.com/katsyoshi/fluent-plugin-serialport/pull/3
