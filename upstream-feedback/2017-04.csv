@@ -146,6 +146,9 @@
 2017-04-28,okkez,fluent/fluent-plugin-webhdfs,patch,https://github.com/fluent/fluent-plugin-webhdfs/pull/56
 2017-04-28,okkez,ranguba/chupa-text,patch,https://github.com/ranguba/chupa-text/pull/3
 2017-04-28,okkez,fluent/fluent-plugin-webhdfs,patch,https://github.com/fluent/fluent-plugin-webhdfs/pull/57
+2017-04-28,kou,gtk-doc,find,https://bugzilla.gnome.org/show_bug.cgi?id=781888
+2017-04-28,horimoto,gtk-doc,patch,https://bugzilla.gnome.org/show_bug.cgi?id=781888
+2017-04-29,kou,mariadb,find,https://jira.mariadb.org/browse/MDEV-12642
 2017-04-29,kenhys,mariadb,report,https://jira.mariadb.org/browse/MDEV-12642
 2017-04-30,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/616
 2017-04-30,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/617
