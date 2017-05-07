@@ -8,3 +8,4 @@
 2017-05-02,kou,ruby,help,https://bugs.ruby-lang.org/issues/13531
 2017-05-02,cosmo0920,flydata/fluent-plugin-redshift,patch,https://github.com/flydata/fluent-plugin-redshift/pull/32
 2017-05-02,cosmo0920,muddydixon/fluent-plugin-anomalydetect,patch,https://github.com/muddydixon/fluent-plugin-anomalydetect/pull/25
+2017-05-02,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/628
