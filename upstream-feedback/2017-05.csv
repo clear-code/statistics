@@ -9,14 +9,14 @@
 2017-05-02,cosmo0920,flydata/fluent-plugin-redshift,patch,https://github.com/flydata/fluent-plugin-redshift/pull/32
 2017-05-02,cosmo0920,muddydixon/fluent-plugin-anomalydetect,patch,https://github.com/muddydixon/fluent-plugin-anomalydetect/pull/25
 2017-05-02,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/628
+2017-05-02,cosmo0920,techlabxe/SimpleWindowWayland,patch,https://github.com/techlabxe/SimpleWindowWayland/pull/1
 2017-05-03,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/635
 2017-05-03,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/637
 2017-05-03,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/638
+2017-05-03,kou,linuxdeepin/go-gir-generator,patch,https://github.com/linuxdeepin/go-gir-generator/pull/1
 2017-05-06,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/641
 2017-05-07,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/654
 2017-05-08,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/657
-2017-05-03,kou,linuxdeepin/go-gir-generator,patch,https://github.com/linuxdeepin/go-gir-generator/pull/1
-2017-05-02,cosmo0920,techlabxe/SimpleWindowWayland,patch,https://github.com/techlabxe/SimpleWindowWayland/pull/1
 2017-05-08,cosmo0920,winebarrel/fluent-plugin-elb-access-log,patch,https://github.com/winebarrel/fluent-plugin-elb-access-log/pull/5
 2017-05-08,okkez,katsyoshi/fluent-plugin-serialport,patch,https://github.com/katsyoshi/fluent-plugin-serialport/pull/5
 2017-05-08,okkez,kazegusuri/fluent-plugin-stdout-pp,patch,https://github.com/kazegusuri/fluent-plugin-stdout-pp/pull/5
@@ -30,9 +30,9 @@
 2017-05-10,okkez,ranguba/groonga-client-model,report,https://github.com/ranguba/groonga-client-model/issues/2
 2017-05-10,cosmo0920,htgc/fluent-plugin-azurestorage,patch,https://github.com/htgc/fluent-plugin-azurestorage/pull/18
 2017-05-10,cosmo0920,fluent/fluent-plugin-s3,patch,https://github.com/fluent/fluent-plugin-s3/pull/193
-2017-05-11,komainu8,gentoo-handbook,report,https://bugs.gentoo.org/show_bug.cgi?id=617970
 2017-05-10,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/666
 2017-05-10,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/667
 2017-05-10,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/668
 2017-05-10,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/670
 2017-05-10,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/671
+2017-05-11,komainu8,gentoo-handbook,report,https://bugs.gentoo.org/show_bug.cgi?id=617970
