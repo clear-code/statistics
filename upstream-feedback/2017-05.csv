@@ -41,3 +41,4 @@
 2017-05-11,kenhys,takaswie/libhinawa,patch,https://github.com/takaswie/libhinawa/pull/47
 2017-05-15,cosmo0920,gonsuke/fluent-plugin-dynamodb,patch,https://github.com/gonsuke/fluent-plugin-dynamodb/pull/19
 2017-05-15,komainu8,ranguba/groonga-client-model,patch,https://github.com/ranguba/groonga-client-model/pull/4
+2017-05-15,okkez,ranguba/groonga-client,report,https://github.com/ranguba/groonga-client/issues/24
