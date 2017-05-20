@@ -78,3 +78,4 @@
 2017-05-19,cosmo0920,gonsuke/fluent-plugin-dynamodb,patch,https://github.com/gonsuke/fluent-plugin-dynamodb/pull/21
 2017-05-19,cosmo0920,miyagawa/fluent-plugin-amazon_sns,patch,https://github.com/miyagawa/fluent-plugin-amazon_sns/pull/7
 2017-05-20,kenhys,wiki.d.o,patch,https://wiki.debian.org/DebbugsSoapInterface?action=diff&rev2=73&rev1=72
+2017-05-20,cosmo0920,yokawasa/fluent-plugin-azuresearch,patch,https://github.com/yokawasa/fluent-plugin-azuresearch/pull/3
