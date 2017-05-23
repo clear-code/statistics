@@ -86,6 +86,7 @@
 2017-05-22,okkez,fluent/fluentd-website,patch,https://github.com/fluent/fluentd-website/pull/30
 2017-05-22,okkez,ranguba/groonga-client,report,https://github.com/ranguba/groonga-client/issues/25
 2017-05-22,okkez,ranguba/groonga-client,report,https://github.com/ranguba/groonga-client/issues/26
+2017-05-23,cosmo0920,gonsuke/fluent-plugin-dynamodb,patch,https://github.com/gonsuke/fluent-plugin-dynamodb/pull/22
 2017-05-23,cosmo0920,yuuna/fluent-plugin-mqtt,patch,https://github.com/yuuna/fluent-plugin-mqtt/pull/12
 2017-05-23,kou,okkez/pragmatic-bot,report,https://github.com/okkez/pragmatic-bot/issues/3
 2017-05-23,okkez,groonga/heroku-buildpack-groonga,report,https://github.com/groonga/heroku-buildpack-groonga/issues/4
