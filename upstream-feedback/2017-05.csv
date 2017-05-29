@@ -111,6 +111,7 @@
 2017-05-26,okkez,ts-3156/fluent-plugin-yammer,patch,https://github.com/ts-3156/fluent-plugin-yammer/pull/2
 2017-05-26,okkez,ts-3156/fluent-plugin-yammer,patch,https://github.com/ts-3156/fluent-plugin-yammer/pull/3
 2017-05-26,okkez,ts-3156/fluent-plugin-yammer,patch,https://github.com/ts-3156/fluent-plugin-yammer/pull/4
+2017-05-29,cosmo0920,ento/fluent-plugin-out-http,patch,https://github.com/ento/fluent-plugin-out-http/pull/21
 2017-05-29,cosmo0920,haruyama/fluent-plugin-out-solr,patch,https://github.com/haruyama/fluent-plugin-out-solr/pull/3
 2017-05-29,cosmo0920,innossh/fluent-plugin-memcached,patch,https://github.com/innossh/fluent-plugin-memcached/pull/1
 2017-05-29,cosmo0920,jwestbrook/fluent-plugin-diskusage,patch,https://github.com/jwestbrook/fluent-plugin-diskusage/pull/1
