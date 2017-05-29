@@ -94,6 +94,7 @@
 2017-05-23,okkez,groonga/heroku-buildpack-groonga,report,https://github.com/groonga/heroku-buildpack-groonga/issues/4
 2017-05-24,cosmo0920,yokawasa/fluent-plugin-azure-loganalytics,patch,https://github.com/yokawasa/fluent-plugin-azure-loganalytics/pull/1
 2017-05-24,komainu8,groonga/groonga,patch,https://github.com/groonga/groonga/pull/698
+2017-05-24,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/713
 2017-05-24,okkez,ranguba/groonga-client,report,https://github.com/ranguba/groonga-client/issues/27
 2017-05-24,piroor,firefox-webextensions,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1280347
 2017-05-25,ashie,OSSystems/meta-browser,patch,https://github.com/OSSystems/meta-browser/pull/43
