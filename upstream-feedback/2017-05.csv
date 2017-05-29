@@ -116,4 +116,5 @@
 2017-05-29,cosmo0920,jwestbrook/fluent-plugin-diskusage,patch,https://github.com/jwestbrook/fluent-plugin-diskusage/pull/2
 2017-05-29,okkez,fluent/fluentd-website,help,https://github.com/fluent/fluentd-website/pull/33
 2017-05-29,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/2
+2017-05-29,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/3
 2017-05-29,okkez,innossh/fluent-plugin-postgres-replicator,patch,https://github.com/innossh/fluent-plugin-postgres-replicator/pull/1
