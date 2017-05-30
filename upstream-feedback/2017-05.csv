@@ -40,6 +40,7 @@
 2017-05-12,ashie,OSSystems/meta-browser,patch,https://github.com/OSSystems/meta-browser/pull/37
 2017-05-12,okkez,ranguba/groonga-client,report,https://github.com/ranguba/groonga-client/issues/23
 2017-05-15,cosmo0920,gonsuke/fluent-plugin-dynamodb,patch,https://github.com/gonsuke/fluent-plugin-dynamodb/pull/19
+2017-05-15,kenhys,takaswie/libhinawa,patch,https://github.com/takaswie/libhinawa/pull/48
 2017-05-15,kenhys,wiki.d.o,patch,https://wiki.debian.org/DebbugsSoapInterface?action=diff&rev2=72&rev1=71
 2017-05-15,komainu8,ranguba/groonga-client-model,patch,https://github.com/ranguba/groonga-client-model/pull/4
 2017-05-15,kou,apache/arrow,patch,https://github.com/apache/arrow/pull/688
@@ -127,6 +128,6 @@
 2017-05-29,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/8
 2017-05-29,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/9
 2017-05-29,okkez,innossh/fluent-plugin-postgres-replicator,patch,https://github.com/innossh/fluent-plugin-postgres-replicator/pull/1
+2017-05-30,kenhys,devscripts,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=863497
 2017-05-30,kou,okkez/redmine_full_text_search,help,https://github.com/okkez/redmine_full_text_search/pull/28
 2017-05-30,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/12
-2017-05-30,kenhys,devscripts,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=863497
