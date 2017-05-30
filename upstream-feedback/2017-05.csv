@@ -128,6 +128,7 @@
 2017-05-29,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/8
 2017-05-29,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/9
 2017-05-29,okkez,innossh/fluent-plugin-postgres-replicator,patch,https://github.com/innossh/fluent-plugin-postgres-replicator/pull/1
+2017-05-30,cosmo0920,change/fluent-plugin-eventcounter,patch,https://github.com/change/fluent-plugin-eventcounter/pull/8
 2017-05-30,kenhys,devscripts,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=863497
 2017-05-30,kou,okkez/redmine_full_text_search,help,https://github.com/okkez/redmine_full_text_search/pull/28
 2017-05-30,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/12
