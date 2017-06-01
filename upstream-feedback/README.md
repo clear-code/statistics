@@ -33,3 +33,16 @@ CSVのフィールドは左から順に次のとおりとする。
 2017-04-02,kou,arrow,patch,https://github.com/apache/arrow/pull/480
 2017-04-04,kou,parquet-cpp,info,https://github.com/apache/parquet-cpp/pull/290#issuecomment-291356052
 ```
+
+### フィードバックの種類一覧
+
+* patch
+  * パッチを（pull requestとかで）フィードバックした場合
+* report
+  * バグレポートや機能提案など
+* info
+  * 有用な情報の提供
+* find
+  * バグや機能改善案を見つけて他の人が代わりにフィードバックした場合
+* help
+  * 他の人がフィードバックするのを助けた場合
