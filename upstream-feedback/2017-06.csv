@@ -11,6 +11,7 @@
 2017-06-02,cosmo0920,bitex-la/fluent-plugin-msgpack-parser,report,https://github.com/bitex-la/fluent-plugin-msgpack-parser/issues/1
 2017-06-02,kou,homebrew/homebrew-core,help,https://github.com/Homebrew/homebrew-core/pull/14105
 2017-06-02,kou,okkez/pragmatic-bot,report,https://github.com/okkez/pragmatic-bot/issues/5
+2017-06-02,okkez,fujiwara/fluent-plugin-zabbix,patch,https://github.com/fujiwara/fluent-plugin-zabbix/pull/15
 2017-06-02,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/15
 2017-06-02,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/16
 2017-06-02,okkez,haruyama/fluent-plugin-referer-parser,patch,https://github.com/haruyama/fluent-plugin-referer-parser/pull/17
