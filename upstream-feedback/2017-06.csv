@@ -33,3 +33,4 @@
 2017-06-07,komainu8,openssl/openssl,patch,https://github.com/openssl/openssl/pull/3627
 2017-06-07,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1592
 2017-06-08,cosmo0920,core-printing,patch,https://bugzilla.mozilla.org/show_bug.cgi?id=1366744#c28
+2017-06-08,kenhys,polm/lua-mecab,patch,https://github.com/polm/lua-mecab/pull/1
