@@ -43,5 +43,6 @@
 2017-06-12,kou,ruby/ruby,help,https://github.com/ruby/ruby/pull/1646
 2017-06-13,cosmo0920,michaelgruber/fluent-plugin-ecs-metadata-filter,patch,https://github.com/michaelgruber/fluent-plugin-ecs-metadata-filter/pull/2
 2017-06-13,cosmo0920,yokawasa/fluent-plugin-azure-loganalytics,patch,https://github.com/yokawasa/fluent-plugin-azure-loganalytics/pull/2
+2017-06-13,cosmo0920,yokawasa/fluent-plugin-azuresearch,patch,https://github.com/yokawasa/fluent-plugin-azuresearch/pull/4
 2017-06-13,cosmo0920,yokawasa/fluent-plugin-documentdb,patch,https://github.com/yokawasa/fluent-plugin-documentdb/pull/5
 2017-06-13,okkez,fluent/fluentd,info,https://github.com/fluent/fluentd/issues/1383#issuecomment-307984033
