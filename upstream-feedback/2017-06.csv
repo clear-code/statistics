@@ -51,4 +51,5 @@
 2017-06-14,ashie,firefox-wayland,help,https://bugzilla.redhat.com/show_bug.cgi?id=1054334#c28
 2017-06-14,cosmo0920,firefox-wayland,report,https://bugzilla.redhat.com/show_bug.cgi?id=1054334#c29
 2017-06-14,cosmo0920,gonsuke/fluent-plugin-dynamodb,patch,https://github.com/gonsuke/fluent-plugin-dynamodb/pull/23
+2017-06-14,kenhys,polm/lua-mecab,report,https://github.com/polm/lua-mecab/issues/4
 2017-06-14,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1598
