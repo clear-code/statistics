@@ -62,4 +62,5 @@
 2017-06-19,cosmo0920,daichirata/fluent-plugin-gcs,patch,https://github.com/daichirata/fluent-plugin-gcs/pull/6
 2017-06-19,kou,QuantStack/xtensor,patch,https://github.com/QuantStack/xtensor/pull/338
 2017-06-20,kenhys,polm/lua-mecab,patch,https://github.com/polm/lua-mecab/pull/5
+2017-06-21,cosmo0920,tourstream/fluent-plugin-gcloud-metadata,patch,https://github.com/tourstream/fluent-plugin-gcloud-metadata/pull/1
 2017-06-21,okkez,y-ken/fluent-plugin-geoip,info,https://github.com/y-ken/fluent-plugin-geoip/issues/39#issuecomment-309931471
