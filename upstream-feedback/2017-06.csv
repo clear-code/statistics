@@ -66,3 +66,4 @@
 2017-06-21,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1603
 2017-06-21,okkez,y-ken/fluent-plugin-geoip,info,https://github.com/y-ken/fluent-plugin-geoip/issues/39#issuecomment-309931471
 2017-06-22,cosmo0920,GoogleCloudPlatform/fluent-plugin-detect-exceptions,info,https://github.com/GoogleCloudPlatform/fluent-plugin-detect-exceptions/pull/15#discussion_r123431278
+2017-06-22,cosmo0920,GoogleCloudPlatform/fluent-plugin-google-cloud,patch,https://github.com/GoogleCloudPlatform/fluent-plugin-google-cloud/pull/134
