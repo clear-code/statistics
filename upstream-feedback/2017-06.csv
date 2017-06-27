@@ -72,9 +72,10 @@
 2017-06-24,cosmo0920,mia-0032/fluent-plugin-gcloud-pubsub-custom,patch,https://github.com/mia-0032/fluent-plugin-gcloud-pubsub-custom/pull/41
 2017-06-24,kenhys,chef/bento,patch,https://github.com/chef/bento/pull/824
 2017-06-24,kenhys,rvm/rvm,report,https://github.com/rvm/rvm/issues/4075
+2017-06-24,komainu8,jubatus/jubatus_core,patch,https://github.com/jubatus/jubatus_core/pull/377
 2017-06-26,cosmo0920,fluent/fluentd-website,patch,https://github.com/fluent/fluentd-website/pull/40
 2017-06-26,cosmo0920,ixixi/fluent-plugin-sqs,patch,https://github.com/ixixi/fluent-plugin-sqs/pull/32
 2017-06-26,cosmo0920,ixixi/fluent-plugin-sqs,patch,https://github.com/ixixi/fluent-plugin-sqs/pull/33
+2017-06-26,cosmo0920,pgroonga/pgroonga,help,https://github.com/pgroonga/pgroonga/issues/45
 2017-06-26,kou,mroonga/mroonga,help,https://github.com/mroonga/mroonga/issues/146
 2017-06-26,kou,webkitgtk+,find,https://bugs.webkit.org/show_bug.cgi?id=173765
-2017-06-26,cosmo0920,pgroonga/pgroonga,help,https://github.com/pgroonga/pgroonga/issues/45
