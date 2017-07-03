@@ -2,6 +2,7 @@
 2017-07-03,kenhys,pbuilder,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=866970
 2017-07-03,kou,zulip/zulip,find,https://github.com/zulip/zulip/issues/5603
 2017-07-03,okkez,bash0C7/fluent-plugin-idobata,report,https://github.com/bash0C7/fluent-plugin-idobata/issues/54
+2017-07-03,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1611
 2017-07-03,okkez,innossh/fluent-plugin-postgres-replicator,patch,https://github.com/innossh/fluent-plugin-postgres-replicator/pull/2
 2017-07-03,okkez,innossh/fluent-plugin-postgres-replicator,patch,https://github.com/innossh/fluent-plugin-postgres-replicator/pull/3
 2017-07-03,okkez,nulab/fluent-plugin-typetalk,report,https://github.com/nulab/fluent-plugin-typetalk/issues/7
