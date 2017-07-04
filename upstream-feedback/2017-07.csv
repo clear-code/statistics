@@ -13,4 +13,5 @@
 2017-07-04,cosmo0920,firefox-wayland,patch,https://bugzilla.redhat.com/attachment.cgi?id=1294016&action=diff
 2017-07-04,kou,PostgreSQL,find,https://www.postgresql.org/message-id/20170703085524.1465.22668%40wrigleys.postgresql.org
 2017-07-04,piroor,PostgreSQL,report,https://www.postgresql.org/message-id/20170703085524.1465.22668%40wrigleys.postgresql.org
+2017-07-04,piroor,andy-portmen/native-client,patch,https://github.com/andy-portmen/native-client/pull/16
 2017-07-04,piroor,andy-portmen/native-client,report,https://github.com/andy-portmen/native-client/issues/15
