@@ -25,3 +25,4 @@
 2017-07-12,ashie,firefox-wayland,help,https://bugzilla.redhat.com/show_bug.cgi?id=1470031
 2017-07-12,cosmo0920,firefox-wayland,report,https://bugzilla.redhat.com/show_bug.cgi?id=1470031
 2017-07-12,kenhys,groonga/fluent-plugin-groonga-query-log,patch,https://github.com/groonga/fluent-plugin-groonga-query-log/pull/3
+2017-07-13,kenhys,groonga/grafana-datasource-plugin-groonga,patch,https://github.com/groonga/grafana-datasource-plugin-groonga/pull/4
