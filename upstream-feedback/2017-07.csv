@@ -48,4 +48,5 @@
 2017-07-21,cosmo0920,marcy-terui/fluent-plugin-specinfra_inventory,patch,https://github.com/marcy-terui/fluent-plugin-specinfra_inventory/pull/3
 2017-07-21,piroor,fluent/fluent-logger-node,patch,https://github.com/fluent/fluent-logger-node/pull/71
 2017-07-21,piroor,fluent/fluent-logger-node,patch,https://github.com/fluent/fluent-logger-node/pull/72
+2017-07-22,kenhys,dimitri/el-get,patch,https://github.com/dimitri/el-get/pull/2552
 2017-07-22,kenhys,vagrant-libvirt,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=869253
