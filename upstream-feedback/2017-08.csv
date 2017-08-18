@@ -31,6 +31,7 @@
 2017-08-17,cosmo0920,bungoume/fluent-plugin-samefile,patch,https://github.com/bungoume/fluent-plugin-samefile/pull/4
 2017-08-17,kou,apache/arrow,find,https://github.com/apache/arrow/pull/970
 2017-08-17,kou,gdm3,find,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=872316
+2017-08-18,ashie,gdm3,help,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=872316#29
 2017-08-18,cosmo0920,mach/fluent-plugin-format,patch,https://github.com/mach/fluent-plugin-format/pull/2
 2017-08-18,cosmo0920,mach/fluent-plugin-format,patch,https://github.com/mach/fluent-plugin-format/pull/3
 2017-08-18,cosmo0920,sue445/fluent-plugin-chatwork,patch,https://github.com/sue445/fluent-plugin-chatwork/pull/16
