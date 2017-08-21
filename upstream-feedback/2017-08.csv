@@ -47,5 +47,6 @@
 2017-08-21,cosmo0920,obieq/fluent-plugin-cassandra-cql,patch,https://github.com/obieq/fluent-plugin-cassandra-cql/pull/2
 2017-08-21,cosmo0920,winebarrel/fluent-plugin-elb-access-log,patch,https://github.com/winebarrel/fluent-plugin-elb-access-log/pull/9
 2017-08-21,kenhys,wahern/cqueues,patch,https://github.com/wahern/cqueues/pull/190
+2017-08-21,kenhys,wahern/luaossl,patch,https://github.com/wahern/luaossl/pull/97
 2017-08-21,kou,apache/arrow,find,https://github.com/apache/arrow/pull/977
 2017-08-21,piroor,k-tsj/power_assert,patch,https://github.com/k-tsj/power_assert/pull/21
