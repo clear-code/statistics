@@ -45,5 +45,6 @@
 2017-08-19,kenhys,gtk+,report,https://bugzilla.gnome.org/show_bug.cgi?id=703914#c5
 2017-08-19,komainu8,apache/arrow,patch,https://github.com/apache/arrow/pull/977
 2017-08-21,cosmo0920,obieq/fluent-plugin-cassandra-cql,patch,https://github.com/obieq/fluent-plugin-cassandra-cql/pull/2
+2017-08-21,cosmo0920,winebarrel/fluent-plugin-elb-access-log,patch,https://github.com/winebarrel/fluent-plugin-elb-access-log/pull/9
 2017-08-21,kou,apache/arrow,find,https://github.com/apache/arrow/pull/977
 2017-08-21,piroor,k-tsj/power_assert,patch,https://github.com/k-tsj/power_assert/pull/21
