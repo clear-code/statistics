@@ -52,6 +52,7 @@
 2017-08-21,piroor,k-tsj/power_assert,patch,https://github.com/k-tsj/power_assert/pull/21
 2017-08-24,ashie,firefox-wayland,find,https://bugzilla.redhat.com/show_bug.cgi?id=1484651
 2017-08-24,ashie,meta-browser,help,https://github.com/webdino/meta-browser/pull/1
+2017-08-24,cosmo0920,firefox-wayland,patch,https://bugzilla.redhat.com/attachment.cgi?id=1317470&action=diff
 2017-08-24,cosmo0920,firefox-wayland,report,https://bugzilla.redhat.com/show_bug.cgi?id=1484651
 2017-08-24,cosmo0920,fluent/fluentd-benchmark,info,https://github.com/fluent/fluentd-benchmark/pull/7
 2017-08-24,cosmo0920,hiro-su/fluent-plugin-http-status,patch,https://github.com/hiro-su/fluent-plugin-http-status/pull/3
