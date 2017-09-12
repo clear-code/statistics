@@ -6,5 +6,6 @@
 2017-09-08,cosmo0920,uken/fluent-plugin-elasticsearch,help,https://github.com/uken/fluent-plugin-elasticsearch/issues/222
 2017-09-08,cosmo0920,uken/fluent-plugin-elasticsearch,help,https://github.com/uken/fluent-plugin-elasticsearch/pull/223
 2017-09-11,cosmo0920,atomita/fluent-plugin-aws-elasticsearch-service,patch,https://github.com/atomita/fluent-plugin-aws-elasticsearch-service/pull/32
+2017-09-12,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1690
 2017-09-12,okkez,okumin/influent,patch,https://github.com/okumin/influent/pull/32
 2017-09-12,okkez,redmine,help,http://www.redmine.org/issues/11530#note-8
