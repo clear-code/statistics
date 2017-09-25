@@ -20,6 +20,7 @@
 2017-09-20,cosmo0920,ecwws/fluent-plugin-elasticsearch-timestamp-check,patch,https://github.com/ecwws/fluent-plugin-elasticsearch-timestamp-check/pull/7
 2017-09-21,cosmo0920,paulrouget/servoshell,report,https://github.com/paulrouget/servoshell/issues/62
 2017-09-23,kenhys,apache/arrow,patch,https://github.com/apache/arrow/pull/1124
+2017-09-25,cosmo0920,ephemeralsnow/fluent-plugin-eval-filter,patch,https://github.com/ephemeralsnow/fluent-plugin-eval-filter/pull/10
 2017-09-25,kou,apache/arrow,find,https://github.com/apache/arrow/pull/1124
 2017-09-25,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/293
 2017-09-25,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/294
