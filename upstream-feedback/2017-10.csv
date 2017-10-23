@@ -32,5 +32,6 @@
 2017-10-19,komainu8,jubatus/jubatus-msgpack-rpc,patch,https://github.com/jubatus/jubatus-msgpack-rpc/pull/27
 2017-10-20,cosmo0920,sugilog/fluent-plugin-nested-hash-filter,patch,https://github.com/sugilog/fluent-plugin-nested-hash-filter/pull/1
 2017-10-22,komainu8,JuliaLang/julia,patch,https://github.com/JuliaLang/julia/pull/24271
+2017-10-23,cosmo0920,SNakano/fluent-plugin-split-array,patch,https://github.com/SNakano/fluent-plugin-split-array/pull/2
 2017-10-23,cosmo0920,joshughes/fluent-plugin-ecs-filter,patch,https://github.com/joshughes/fluent-plugin-ecs-filter/pull/3
 2017-10-23,cosmo0920,joshughes/fluent-plugin-mesosphere-filter,patch,https://github.com/joshughes/fluent-plugin-mesosphere-filter/pull/7
