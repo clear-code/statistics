@@ -36,4 +36,5 @@
 2017-10-23,cosmo0920,joshughes/fluent-plugin-ecs-filter,patch,https://github.com/joshughes/fluent-plugin-ecs-filter/pull/3
 2017-10-23,cosmo0920,joshughes/fluent-plugin-mesosphere-filter,patch,https://github.com/joshughes/fluent-plugin-mesosphere-filter/pull/7
 2017-10-25,ashie,firefox-wayland,patch,https://bugzilla.redhat.com/show_bug.cgi?id=1505745
+2017-10-25,kou,red-data-tools/red-arrow,help,https://github.com/red-data-tools/red-arrow/pull/6
 2017-10-25,kou,test-unit/test-unit,help,https://github.com/test-unit/test-unit/pull/156
