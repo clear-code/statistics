@@ -50,6 +50,7 @@
 2017-10-30,cosmo0920,Neozaru/fluent-plugin-filter_codec,patch,https://github.com/Neozaru/fluent-plugin-filter_codec/pull/2
 2017-10-30,cosmo0920,Neozaru/fluent-plugin-filter_codec,patch,https://github.com/Neozaru/fluent-plugin-filter_codec/pull/3
 2017-10-30,cosmo0920,adorechic/fluent-plugin-validate-tag-filter,patch,https://github.com/adorechic/fluent-plugin-validate-tag-filter/pull/1
+2017-10-30,cosmo0920,nori3tsu/fluent-plugin-base64-parser,patch,https://github.com/nori3tsu/fluent-plugin-base64-parser/pull/1
 2017-10-30,cosmo0920,winebarrel/fluent-plugin-filter-object-flatten,patch,https://github.com/winebarrel/fluent-plugin-filter-object-flatten/pull/1
 2017-10-30,cosmo0920,yanana/fluent-plugin-filter-list,patch,https://github.com/yanana/fluent-plugin-filter-list/pull/6
 2017-10-30,cosmo0920,yteraoka/fluent-plugin-fortigate-log-parser,patch,https://github.com/yteraoka/fluent-plugin-fortigate-log-parser/pull/4
