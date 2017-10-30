@@ -46,5 +46,6 @@
 2017-10-30,ashie,firefox-wayland,patch,https://bugzilla.redhat.com/show_bug.cgi?id=1507369
 2017-10-30,cosmo0920,CaDs/fluent-plugin-key-picker,patch,https://github.com/CaDs/fluent-plugin-key-picker/pull/1
 2017-10-30,cosmo0920,CaDs/fluent-plugin-key-picker,patch,https://github.com/CaDs/fluent-plugin-key-picker/pull/2
+2017-10-30,cosmo0920,Neozaru/fluent-plugin-filter_codec,patch,https://github.com/Neozaru/fluent-plugin-filter_codec/pull/2
 2017-10-30,cosmo0920,adorechic/fluent-plugin-validate-tag-filter,patch,https://github.com/adorechic/fluent-plugin-validate-tag-filter/pull/1
 2017-10-30,cosmo0920,winebarrel/fluent-plugin-filter-object-flatten,patch,https://github.com/winebarrel/fluent-plugin-filter-object-flatten/pull/1
