@@ -56,4 +56,5 @@
 2017-10-30,cosmo0920,yteraoka/fluent-plugin-fortigate-log-parser,patch,https://github.com/yteraoka/fluent-plugin-fortigate-log-parser/pull/4
 2017-10-30,komainu8,u-ichi/fluent-plugin-mail,patch,https://github.com/u-ichi/fluent-plugin-mail/pull/40
 2017-10-30,kou,gnome/libsoup,find,https://bugzilla.gnome.org/show_bug.cgi?id=789644
+2017-10-31,cosmo0920,nori3tsu/fluent-plugin-base64-parser,patch,https://github.com/nori3tsu/fluent-plugin-base64-parser/pull/2
 2017-10-31,kenhys,fluent-plugin-mail,find,https://github.com/u-ichi/fluent-plugin-mail/pull/40
