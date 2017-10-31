@@ -54,4 +54,5 @@
 2017-10-30,cosmo0920,winebarrel/fluent-plugin-filter-object-flatten,patch,https://github.com/winebarrel/fluent-plugin-filter-object-flatten/pull/1
 2017-10-30,cosmo0920,yanana/fluent-plugin-filter-list,patch,https://github.com/yanana/fluent-plugin-filter-list/pull/6
 2017-10-30,cosmo0920,yteraoka/fluent-plugin-fortigate-log-parser,patch,https://github.com/yteraoka/fluent-plugin-fortigate-log-parser/pull/4
+2017-10-30,komainu8,u-ichi/fluent-plugin-mail,patch,https://github.com/u-ichi/fluent-plugin-mail/pull/40
 2017-10-30,kou,gnome/libsoup,find,https://bugzilla.gnome.org/show_bug.cgi?id=789644
