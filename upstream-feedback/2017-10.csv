@@ -44,6 +44,7 @@
 2017-10-26,cosmo0920,mosuka/fluent-plugin-filter-geoip,patch,https://github.com/mosuka/fluent-plugin-filter-geoip/pull/4
 2017-10-26,cosmo0920,mtakemi/fluent-plugin-genhashvalue,patch,https://github.com/mtakemi/fluent-plugin-genhashvalue/pull/1
 2017-10-28,komainu8,JuliaLang/julia,patch,https://github.com/JuliaLang/julia/pull/24373
+2017-10-28,komainu8,JuliaLang/julia,patch,https://github.com/JuliaLang/julia/pull/24377
 2017-10-30,ashie,firefox-wayland,patch,https://bugzilla.redhat.com/show_bug.cgi?id=1507369
 2017-10-30,ashie,gnome/libsoup,report,https://bugzilla.gnome.org/show_bug.cgi?id=789644
 2017-10-30,cosmo0920,CaDs/fluent-plugin-key-picker,patch,https://github.com/CaDs/fluent-plugin-key-picker/pull/1
