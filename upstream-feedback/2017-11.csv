@@ -45,6 +45,7 @@
 2017-11-14,kou,gnome/pango,help,https://bugzilla.gnome.org/show_bug.cgi?id=787365
 2017-11-14,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/329
 2017-11-14,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/331
+2017-11-15,cosmo0920,uken/fluent-plugin-elasticsearch,help,https://github.com/uken/fluent-plugin-elasticsearch/pull/317
 2017-11-15,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/332
 2017-11-15,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/333
 2017-11-15,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/334
