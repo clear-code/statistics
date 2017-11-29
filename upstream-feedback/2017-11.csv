@@ -86,6 +86,7 @@
 2017-11-28,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/352
 2017-11-28,piroor,mozilla,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1421168
 2017-11-29,kenhys,luarocks/luarocks-site,report,https://github.com/luarocks/luarocks-site/issues/127
+2017-11-29,kenhys,mozilla/firefox,patch,https://bugzilla.mozilla.org/show_bug.cgi?id=580349#c50
 2017-11-29,kou,luarocks/luarocks-site,find,https://github.com/luarocks/luarocks-site/issues/127
 2017-11-29,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/355
 2017-11-29,okkez,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/356
