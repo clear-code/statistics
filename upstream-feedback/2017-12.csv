@@ -35,11 +35,11 @@
 2017-12-12,kou,heterodb/pg-strom,patch,https://github.com/heterodb/pg-strom/pull/318
 2017-12-12,kou,zulip/zulip,find,https://github.com/zulip/zulip/issues/7740
 2017-12-12,okkez,zulip/zulip,report,https://github.com/zulip/zulip/issues/7740
-2017-12-13,,gnome/brasero,report,https://bugzilla.gnome.org/show_bug.cgi?id=791560
+2017-12-13,fujimotos,gnome/brasero,report,https://bugzilla.gnome.org/show_bug.cgi?id=791560
 2017-12-13,ashie,MariaDB/server,patch,https://github.com/MariaDB/server/pull/512
 2017-12-13,cosmo0920,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/379
 2017-12-13,cosmo0920,pgroonga/pgroonga.github.io,patch,https://github.com/pgroonga/pgroonga.github.io/pull/37
-2017-12-13,fujimotos,gnome/brasero,find,https://bugzilla.gnome.org/show_bug.cgi?id=791560
-2017-12-13,fujimots,MariaDB/server,find,https://github.com/MariaDB/server/pull/512
-2017-12-13,fujimots,pgroonga/pgroonga.github.io,find,https://github.com/pgroonga/pgroonga.github.io/pull/37
+2017-12-13,cosmo0920,gnome/brasero,find,https://bugzilla.gnome.org/show_bug.cgi?id=791560
+2017-12-13,fujimotos,MariaDB/server,find,https://github.com/MariaDB/server/pull/512
+2017-12-13,fujimotos,pgroonga/pgroonga.github.io,find,https://github.com/pgroonga/pgroonga.github.io/pull/37
 2017-12-13,kou,gnome/libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=791376
