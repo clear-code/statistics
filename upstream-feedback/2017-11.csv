@@ -69,8 +69,8 @@
 2017-11-20,okkez,mattn/mruby-onig-regexp,patch,https://github.com/mattn/mruby-onig-regexp/pull/78
 2017-11-21,cosmo0920,imunew/fluent-plugin-monolog,patch,https://github.com/imunew/fluent-plugin-monolog/pull/6
 2017-11-21,cosmo0920,imunew/fluent-plugin-monolog,patch,https://github.com/imunew/fluent-plugin-monolog/pull/7
-2017-11-21,kenhys,libxml2,report,https://bugzilla.gnome.org/show_bug.cgi?id=790651
-2017-11-21,kou,libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=790651
+2017-11-21,kenhys,gnome/libxml2,report,https://bugzilla.gnome.org/show_bug.cgi?id=790651
+2017-11-21,kou,gnome/libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=790651
 2017-11-21,piroor,k-tsj/power_assert,patch,https://github.com/k-tsj/power_assert/pull/23
 2017-11-22,kou,apache/arrow,help,https://github.com/apache/arrow/pull/1342
 2017-11-22,kou,dmlc/xgboost,help,https://github.com/dmlc/xgboost/pull/2892
