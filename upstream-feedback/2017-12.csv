@@ -47,6 +47,7 @@
 2017-12-13,kou,gnome/libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=791376
 2017-12-14,cosmo0920,node-red/node-red-dashboard,report,https://github.com/node-red/node-red-dashboard/issues/319
 2017-12-14,fujimotos,fluent/fluent-logger-python,report,https://github.com/fluent/fluent-logger-python/issues/120
+2017-12-18,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/382
 2017-12-18,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/383
 2017-12-18,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/384
 2017-12-18,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/385
