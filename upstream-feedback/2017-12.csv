@@ -57,6 +57,7 @@
 2017-12-19,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/386
 2017-12-19,kenhys,chef/bento,report,https://github.com/chef/bento/issues/956
 2017-12-19,kenhys,pyama86/mruby-acme-client,report,https://github.com/pyama86/mruby-acme-client/issues/4
+2017-12-19,komainu8,gnome/libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=791618
 2017-12-19,komainu8,gnome/libxml2,patch,https://bugzilla.gnome.org/show_bug.cgi?id=340729
 2017-12-19,komainu8,gnome/libxml2,patch,https://bugzilla.gnome.org/show_bug.cgi?id=791376
 2017-12-19,komainu8,gnome/libxml2,patch,https://bugzilla.gnome.org/show_bug.cgi?id=791618
