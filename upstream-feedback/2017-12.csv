@@ -69,3 +69,4 @@
 2017-12-19,kou,gnome/libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=791618
 2017-12-19,kou,gnome/libxml2,find,https://bugzilla.gnome.org/show_bug.cgi?id=791739
 2017-12-19,okkez,pyama86/mruby-acme-client,find,https://github.com/pyama86/mruby-acme-client/issues/4
+2017-12-20,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/389
