@@ -75,6 +75,7 @@
 2017-12-20,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/392
 2017-12-21,cosmo0920,elastic/website,report,https://discuss.elastic.co/t/could-not-download-kibana-6-1-0-package-for-linux-64-bit-in-official-website/112742
 2017-12-21,cosmo0920,fluentd/fluentd,report,https://github.com/fluent/fluentd/issues/1799
+2017-12-21,cosmo0920,y-ken/fluent-plugin-anonymizer,patch,https://github.com/y-ken/fluent-plugin-anonymizer/pull/23
 2017-12-21,fujimotos,elastic/website,find,https://discuss.elastic.co/t/could-not-download-kibana-6-1-0-package-for-linux-64-bit-in-official-website/112742
 2017-12-21,fujimotos,fluent/fluentd-docs,patch,https://github.com/fluent/fluentd-docs/pull/393
 2017-12-21,kou,Homebrew/homebrew-core,help,https://github.com/Homebrew/homebrew-core/pull/21955
