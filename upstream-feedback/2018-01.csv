@@ -2,3 +2,4 @@
 2018-01-04,cosmo0920,logstash-plugins/logstash-codec-fluent,patch,https://github.com/logstash-plugins/logstash-codec-fluent/pull/18
 2018-01-06,komainu8,jubatus/jubatus-go-client,patch,https://github.com/jubatus/jubatus-go-client/pull/9
 2018-01-09,kou,mroonga/homebrew-mroonga,help,https://github.com/mroonga/homebrew-mroonga/pull/18
+2018-01-09,kou,oss-gate/oss-gate.github.io,help,https://github.com/oss-gate/oss-gate.github.io/pull/66
