@@ -12,3 +12,4 @@
 2018-01-12,piroor,greasemonkey/greasemonkey,patch,https://github.com/greasemonkey/greasemonkey/pull/2799
 2018-01-15,cosmo0920,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1818
 2018-01-15,cosmo0920,logstash-plugins/logstash-codec-fluent,report,https://github.com/logstash-plugins/logstash-codec-fluent/issues/19
+2018-01-15,okkez,groonga/fluent-plugin-groonga,patch,https://github.com/groonga/fluent-plugin-groonga/pull/23
