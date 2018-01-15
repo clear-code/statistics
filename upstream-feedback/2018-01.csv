@@ -13,4 +13,5 @@
 2018-01-15,cosmo0920,elastic/elasticsearch-ruby,report,https://github.com/elastic/elasticsearch-ruby/issues/488
 2018-01-15,cosmo0920,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1818
 2018-01-15,cosmo0920,logstash-plugins/logstash-codec-fluent,report,https://github.com/logstash-plugins/logstash-codec-fluent/issues/19
+2018-01-15,cosmo0920,winebarrel/faraday_middleware-aws-signers-v4,report,https://github.com/winebarrel/faraday_middleware-aws-signers-v4/issues/17
 2018-01-15,okkez,groonga/fluent-plugin-groonga,patch,https://github.com/groonga/fluent-plugin-groonga/pull/23
