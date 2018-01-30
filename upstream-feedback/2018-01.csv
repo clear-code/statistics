@@ -42,4 +42,5 @@
 2018-01-29,cosmo0920,fluent/fluentd,help,https://github.com/fluent/fluentd/issues/1836
 2018-01-29,okkez,apache/kafka,report,https://issues.apache.org/jira/browse/KAFKA-6493
 2018-01-30,cosmo0920,choplin/fluent-plugin-pgjson,patch,https://github.com/choplin/fluent-plugin-pgjson/pull/14
+2018-01-30,fujimotos,Fedora,find,https://bugzilla.redhat.com/show_bug.cgi?id=1540053
 2018-01-30,okkez,Fedora,report,https://bugzilla.redhat.com/show_bug.cgi?id=1540053
