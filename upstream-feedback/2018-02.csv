@@ -2,3 +2,4 @@
 2018-02-03,komainu8,jubatus/jubakit,patch,https://github.com/jubatus/jubakit/pull/104
 2018-02-04,okkez,rails/rails,patch,https://github.com/rails/rails/pull/31882
 2018-02-05,cosmo0920,fluent/fluent-plugin-sql,report,https://github.com/fluent/fluent-plugin-sql/issues/55
+2018-02-06,okkez,poppler/poppler-glib,report,https://bugs.freedesktop.org/show_bug.cgi?id=104961
