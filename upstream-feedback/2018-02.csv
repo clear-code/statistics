@@ -6,4 +6,5 @@
 2018-02-06,okkez,poppler/poppler-glib,report,https://bugs.freedesktop.org/show_bug.cgi?id=104961
 2018-02-07,kenhys,yocto/poky,report,https://bugzilla.yoctoproject.org/show_bug.cgi?id=12537
 2018-02-08,ashie,yocto/poky,find,https://github.com/clear-code/statistics/issues/103
+2018-02-08,fujimotos,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1851
 2018-02-08,kenhys,yocto/poky,report,https://github.com/clear-code/statistics/issues/103
