@@ -30,6 +30,7 @@
 2018-02-21,kenhys,debian/libmariadb-dev,find,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=890966
 2018-02-21,kenhys,firefox,find,https://bugzilla.mozilla.org/show_bug.cgi?id=1439822
 2018-02-21,kenhys,linuxjm,find,https://ja.osdn.net/projects/linuxjm/lists/archive/discuss/2018-January/001383.html
+2018-02-21,okkez,debian/libmariadb-dev,help,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=890966
 2018-02-21,okkez,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1439822
 2018-02-21,okkez,jashkenas/underscore,patch,https://github.com/jashkenas/underscore/pull/2728
 2018-02-21,okkez,linuxjm,report,https://ja.osdn.net/projects/linuxjm/lists/archive/discuss/2018-January/001383.html
