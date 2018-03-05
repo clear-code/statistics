@@ -9,4 +9,5 @@
 2018-03-02,kou,msgpack/msgpack-ruby,find,https://github.com/msgpack/msgpack-ruby/issues/154#issuecomment-369855879
 2018-03-02,okkez,treasure-data/omnibus-td-agent,patch,https://github.com/treasure-data/omnibus-td-agent/pull/168
 2018-03-02,okkez,treasure-data/omnibus-td-agent,patch,https://github.com/treasure-data/omnibus-td-agent/pull/169
+2018-03-05,ashie,mozilla,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1443088
 2018-03-05,okkez,treasure-data/omnibus-td-agent,report,https://github.com/treasure-data/omnibus-td-agent/issues/170
