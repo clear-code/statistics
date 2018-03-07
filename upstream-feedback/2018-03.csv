@@ -5,6 +5,7 @@
 2018-03-01,kou,vstakhov/rspamd,find,https://github.com/vstakhov/rspamd/issues/2044
 2018-03-01,okkez,bundler/bundler,patch,https://github.com/bundler/bundler/pull/6316
 2018-03-01,okkez,y-ken/fluent-plugin-mysql-query,patch,https://github.com/y-ken/fluent-plugin-mysql-query/pull/15
+2018-03-02,fujimotos,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1876
 2018-03-02,fujimotos,msgpack/msgpack-ruby,report,https://github.com/msgpack/msgpack-ruby/issues/154#issuecomment-369855879
 2018-03-02,kou,msgpack/msgpack-ruby,find,https://github.com/msgpack/msgpack-ruby/issues/154#issuecomment-369855879
 2018-03-02,okkez,treasure-data/omnibus-td-agent,patch,https://github.com/treasure-data/omnibus-td-agent/pull/168
