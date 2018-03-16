@@ -40,6 +40,7 @@
 2018-03-10,kenhys,debuerreotype/docker-debian-artifacts,patch,https://github.com/debuerreotype/docker-debian-artifacts/pull/31
 2018-03-12,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1887
 2018-03-12,okkez,fluent/fluentd-website,patch,https://github.com/fluent/fluentd-website/pull/58
+2018-03-14,fujimotos,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/1890
 2018-03-14,kenhys,chef/bento,patch,https://github.com/chef/bento/pull/1010
 2018-03-15,cosmo0920,p11-glue/p11-kit,patch,https://bugs.freedesktop.org/show_bug.cgi?id=105517
 2018-03-15,kenhys,mroonga/mroonga,help,https://github.com/mroonga/mroonga/issues/197
