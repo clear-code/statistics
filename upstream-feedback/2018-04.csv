@@ -53,3 +53,4 @@
 2018-04-24,fujimotos,fluent-plugins-nursery/fluent-plugin-cloudwatch-logs,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-cloudwatch-logs/pull/104
 2018-04-24,fujimotos,spulec/moto,patch,https://github.com/spulec/moto/pull/1593
 2018-04-24,fujimotos,spulec/moto,patch,https://github.com/spulec/moto/pull/1594
+2018-04-24,okkez,nginx,patch,https://trac.nginx.org/nginx/ticket/1539
