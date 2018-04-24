@@ -49,4 +49,5 @@
 2018-04-21,kenhys,glib,patch,https://bugzilla.gnome.org/show_bug.cgi?id=795429
 2018-04-23,cosmo0920,mozilla,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1456025
 2018-04-23,fujimotos,fluent-plugins-nursery/fluent-plugin-cloudwatch-logs,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-cloudwatch-logs/pull/102
+2018-04-24,fujimotos,fluent-plugins-nursery/fluent-plugin-cloudwatch-logs,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-cloudwatch-logs/pull/103
 2018-04-24,fujimotos,spulec/moto,patch,https://github.com/spulec/moto/pull/1593
