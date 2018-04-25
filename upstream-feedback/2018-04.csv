@@ -57,3 +57,4 @@
 2018-04-24,okkez,nginx,patch,https://trac.nginx.org/nginx/ticket/1539
 2018-04-25,fujimotos,fluent-plugins-nursery/fluent-plugin-cloudwatch-logs,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-cloudwatch-logs/pull/106
 2018-04-25,fujimotos,fluent-plugins-nursery/fluent-plugin-concat,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-concat/pull/48
+2018-04-26,kenhys,vagrant,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=896904
