@@ -58,4 +58,5 @@
 2018-04-25,fujimotos,fluent-plugins-nursery/fluent-plugin-cloudwatch-logs,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-cloudwatch-logs/pull/106
 2018-04-25,fujimotos,fluent-plugins-nursery/fluent-plugin-concat,patch,https://github.com/fluent-plugins-nursery/fluent-plugin-concat/pull/48
 2018-04-26,kenhys,vagrant,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=896904
+2018-04-26,kou,mruby/mruby,patch,https://github.com/mruby/mruby/pull/4011
 2018-04-26,okkez,vagrant,find,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=896904
