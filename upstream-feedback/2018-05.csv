@@ -13,3 +13,5 @@
 2018-05-10,cosmo0920,OSSystems/meta-browser,patch,https://github.com/OSSystems/meta-browser/pull/117
 2018-05-10,cosmo0920,firefox,help,https://bugzilla.mozilla.org/show_bug.cgi?id=1457395
 2018-05-10,piroor,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1460820
+2018-05-15,okkez,fluent-plugin-groonga,find,https://github.com/groonga/fluent-plugin-groonga/issues/30
+2018-05-15,piroor,fluent-plugin-groonga,report,https://github.com/groonga/fluent-plugin-groonga/issues/30
