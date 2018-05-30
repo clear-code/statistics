@@ -33,5 +33,6 @@
 2018-05-29,okkez,rubygems/rubygems,patch,https://github.com/rubygems/rubygems/pull/2303
 2018-05-29,piroor,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1464862
 2018-05-29,piroor,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1464992
+2018-05-30,kou,ksss/mruby-file-stat,find,https://github.com/ksss/mruby-file-stat/pull/15
 2018-05-30,okkez,ksss/mruby-file-stat,help,https://github.com/ksss/mruby-file-stat/pull/15
 2018-05-30,okkez,ksss/mruby-file-stat,patch,https://github.com/ksss/mruby-file-stat/pull/15
