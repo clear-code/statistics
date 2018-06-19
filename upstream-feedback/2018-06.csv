@@ -22,6 +22,7 @@
 2018-06-15,komainu8,GNOME/libxml2,report,https://gitlab.gnome.org/GNOME/libxml2/issues/3
 2018-06-15,kou,GNOME/libxml2,find,https://gitlab.gnome.org/GNOME/libxml2/issues/3
 2018-06-18,okkez,choplin/fluent-plugin-pgjson,patch,https://github.com/choplin/fluent-plugin-pgjson/pull/18
+2018-06-19,kou,mruby/mruby,patch,https://github.com/mruby/mruby/pull/4046
 2018-06-19,okkez,choplin/fluent-plugin-pgjson,patch,https://github.com/choplin/fluent-plugin-pgjson/pull/19
 2018-06-19,okkez,choplin/fluent-plugin-pgjson,patch,https://github.com/choplin/fluent-plugin-pgjson/pull/20
 2018-06-19,okkez,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/2023
