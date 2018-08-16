@@ -6,3 +6,4 @@
 2018-08-11,kenhys,webwml,patch,https://salsa.debian.org/webmaster-team/webwml/merge_requests/18
 2018-08-15,fujimotos,nttcom/fluent-plugin-rabbitmq,patch,https://github.com/nttcom/fluent-plugin-rabbitmq/pull/7
 2018-08-16,ashie,OSSystems/meta-browser,patch,https://github.com/OSSystems/meta-browser/pull/158
+2018-08-16,ashie,meta-openembedded,patch,http://lists.openembedded.org/pipermail/openembedded-devel/2018-August/119979.html
