@@ -9,3 +9,4 @@
 2018-08-16,ashie,meta-openembedded,patch,http://lists.openembedded.org/pipermail/openembedded-devel/2018-August/119979.html
 2018-08-16,okkez,kumagi/fluent-plugin-clickhouse,patch,https://github.com/kumagi/fluent-plugin-clickhouse/pull/1
 2018-08-17,okkez,apache/arrow,report,https://issues.apache.org/jira/browse/ARROW-3066
+2018-08-19,komainu8,jubatus/jubakit,patch,https://github.com/jubatus/jubakit/pull/125
