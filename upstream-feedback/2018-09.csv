@@ -3,3 +3,4 @@
 2018-09-12,kou,libedit,find,http://gnats.netbsd.org/cgi-bin/query-pr-single.pl?number=53597
 2018-09-14,fujimotos,fluent/fluent-bit,report,https://github.com/fluent/fluent-bit/issues/766
 2018-09-14,kenhys,fgelinas/timepicker,report,https://github.com/fgelinas/timepicker/issues/98
+2018-09-19,komainu8,moteus/lua-log,patch,https://github.com/moteus/lua-log/pull/13
