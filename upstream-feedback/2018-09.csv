@@ -6,6 +6,7 @@
 2018-09-14,kenhys,fgelinas/timepicker,report,https://github.com/fgelinas/timepicker/issues/98
 2018-09-19,komainu8,moteus/lua-log,patch,https://github.com/moteus/lua-log/pull/13
 2018-09-19,piroor,firefox,info,https://bugzilla.mozilla.org/show_bug.cgi?id=1467605
+2018-09-19,piroor,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1494916
 2018-09-20,piroor,eguerlain/lean-tab-limiter,patch,https://github.com/eguerlain/lean-tab-limiter/pull/1
 2018-09-20,piroor,eguerlain/lean-tab-limiter,patch,https://github.com/eguerlain/lean-tab-limiter/pull/2
 2018-09-25,fujimotos,fluent/fluentd,patch,https://github.com/fluent/fluentd/pull/2139
@@ -15,5 +16,5 @@
 2018-09-28,kenhys,cosmo0920/PowerShell-for-Mroonga-building,patch,https://github.com/cosmo0920/PowerShell-for-Mroonga-building/pull/4
 2018-09-28,kenhys,kde/krita,report,https://bugs.kde.org/show_bug.cgi?id=399166
 2018-09-28,kenhys,vvakame/review.js,report,https://github.com/vvakame/review.js/issues/35
+2018-09-28,komainu8,nim-lang/Nim,patch,https://github.com/nim-lang/Nim/pull/9101
 2018-09-28,piroor,tdiary/tdiary-contrib,patch,https://github.com/tdiary/tdiary-contrib/pull/204
-2018-09-19,piroor,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1494916
