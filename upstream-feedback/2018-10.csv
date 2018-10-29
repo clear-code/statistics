@@ -12,3 +12,4 @@
 2018-10-24,okkez,fluent/fluentd-kubernetes-daemonset,patch,https://github.com/fluent/fluentd-kubernetes-daemonset/pull/211
 2018-10-25,okkez,owncloud/calendar,patch,https://github.com/owncloud/calendar/pull/961
 2018-10-26,okkez,nodejs/node,patch,https://github.com/nodejs/node/pull/23895
+2018-10-29,ashie,mozilla,patch,https://phabricator.services.mozilla.com/D10028
