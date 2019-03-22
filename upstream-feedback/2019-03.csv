@@ -2,3 +2,4 @@
 2019-03-01,kou,uriparser/uriparser,patch,https://github.com/uriparser/uriparser/pull/56
 2019-03-18,kou,GNOME/gtk,help,https://gitlab.gnome.org/GNOME/gtk/issues/1750
 2019-03-19,kou,mesonbuild/meson,patch,https://github.com/mesonbuild/meson/pull/5120
+2019-03-22,kou,ruby/ruby,help,https://bugs.ruby-lang.org/issues/15719
