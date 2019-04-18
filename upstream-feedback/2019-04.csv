@@ -3,9 +3,10 @@
 2019-04-05,ashie,libvips/build-win64-mxe,report,https://github.com/libvips/build-win64-mxe/issues/6
 2019-04-05,ashie,libvips/build-win64-mxe,report,https://github.com/libvips/build-win64-mxe/issues/7
 2019-04-12,piroor,mozilla/firefox,patch,https://bugzilla.mozilla.org/show_bug.cgi?id=1541748
-2019-04-16,piroor,troter/hg-grepfile,patch,https://bitbucket.org/troter/hg-grepfile/pull-requests/2/support-recent-versions-of-mercurial/diff
 2019-04-16,fujimotos,troter/hg-grepfile,help,https://bitbucket.org/troter/hg-grepfile/pull-requests/2/support-recent-versions-of-mercurial/diff
 2019-04-16,piroor,CardBook/CardBook,patch,https://gitlab.com/CardBook/CardBook/merge_requests/519
-2019-04-18,piroor,mozilla/multi-account-containers,report,https://github.com/mozilla/multi-account-containers/issues/1373
-2019-04-18,piroor,mozilla/multi-account-containers,patch,https://github.com/mozilla/multi-account-containers/pull/1377
+2019-04-16,piroor,troter/hg-grepfile,patch,https://bitbucket.org/troter/hg-grepfile/pull-requests/2/support-recent-versions-of-mercurial/diff
+2019-04-18,ashie,mozilla,patch,https://phabricator.services.mozilla.com/D28069
 2019-04-18,piroor,monomon/sort-tabs-advanced,patch,https://github.com/monomon/sort-tabs-advanced/pull/2
+2019-04-18,piroor,mozilla/multi-account-containers,patch,https://github.com/mozilla/multi-account-containers/pull/1377
+2019-04-18,piroor,mozilla/multi-account-containers,report,https://github.com/mozilla/multi-account-containers/issues/1373
