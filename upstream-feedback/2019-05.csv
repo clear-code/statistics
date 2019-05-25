@@ -18,9 +18,10 @@
 2019-05-22,ashie,GNOME/librsvg,patch,https://gitlab.gnome.org/GNOME/librsvg/merge_requests/216
 2019-05-22,komainu8,LuaJIT/LuaJIT,patch,https://github.com/LuaJIT/LuaJIT/pull/498
 2019-05-23,kenhys,virtualbox,report,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=929413
-2019-05-23,piroor,joshuacant/tst-wheel_and_double,patch,https://github.com/joshuacant/tst-wheel_and_double/pull/19
-2019-05-23,piroor,giantoppai/TST-Focus-Preceding-Tab-On-Close,patch,https://github.com/giantoppai/TST-Focus-Preceding-Tab-On-Close/pull/4
 2019-05-23,piroor,Lej77/move-unloaded-tabs-for-tree-style-tab,patch,https://github.com/Lej77/move-unloaded-tabs-for-tree-style-tab/pull/1
 2019-05-23,piroor,MurzNN/TST-Colored-tabs,patch,https://github.com/MurzNN/TST-Colored-tabs/pull/3
+2019-05-23,piroor,giantoppai/TST-Focus-Preceding-Tab-On-Close,patch,https://github.com/giantoppai/TST-Focus-Preceding-Tab-On-Close/pull/4
+2019-05-23,piroor,joshuacant/tst-wheel_and_double,patch,https://github.com/joshuacant/tst-wheel_and_double/pull/19
 2019-05-23,piroor,rNeomy/auto-tab-discard,patch,https://github.com/rNeomy/auto-tab-discard/pull/92
 2019-05-24,piroor,NiklasGollenstede/unload-tabs,patch,https://github.com/NiklasGollenstede/unload-tabs/pull/31
+2019-05-25,komainu8,ocaml/ocaml.org,patch,https://github.com/ocaml/ocaml.org/pull/1071
