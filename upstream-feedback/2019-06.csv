@@ -5,3 +5,4 @@
 2019-06-06,ashie,meta-rust/meta-rust,patch,https://github.com/meta-rust/meta-rust/pull/241
 2019-06-07,kenhys,filezilla,patch,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=928282#10
 2019-06-12,kenhys,snapd,patch,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=928052#33
+2019-06-17,ashie,collectd/collectd,patch,https://github.com/collectd/collectd/pull/3173
