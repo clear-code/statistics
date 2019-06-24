@@ -8,3 +8,4 @@
 2019-06-17,ashie,collectd/collectd,patch,https://github.com/collectd/collectd/pull/3174
 2019-06-18,ashie,collectd/collectd,patch,https://github.com/collectd/collectd/pull/3178
 2019-06-18,fujimotos,gcc,report,https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90907
+2019-06-24,kou,leejarvis/slop,patch,https://github.com/leejarvis/slop/pull/241
