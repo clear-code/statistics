@@ -7,6 +7,7 @@
 2019-06-12,kenhys,snapd,patch,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=928052#33
 2019-06-17,ashie,collectd/collectd,patch,https://github.com/collectd/collectd/pull/3174
 2019-06-18,ashie,collectd/collectd,patch,https://github.com/collectd/collectd/pull/3178
+2019-06-18,fujimotos,edsiper/flb_libco,patch,https://github.com/edsiper/flb_libco/pull/4
 2019-06-18,fujimotos,edsiper/flb_libco,patch,https://github.com/edsiper/flb_libco/pull/5
 2019-06-18,fujimotos,gcc,report,https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90907
 2019-06-20,fujimotos,edsiper/flb_libco,patch,https://github.com/edsiper/flb_libco/pull/6
