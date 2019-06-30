@@ -9,6 +9,7 @@
 2019-06-18,ashie,collectd/collectd,patch,https://github.com/collectd/collectd/pull/3178
 2019-06-18,fujimotos,gcc,report,https://gcc.gnu.org/bugzilla/show_bug.cgi?id=90907
 2019-06-24,kou,leejarvis/slop,patch,https://github.com/leejarvis/slop/pull/241
+2019-06-26,fujimotos,edsiper/flb_libco,patch,https://github.com/edsiper/flb_libco/pull/7
 2019-06-26,piroor,mozilla/firefox,help,https://bugzilla.mozilla.org/show_bug.cgi?id=1561570
 2019-06-26,piroor,mozilla/firefox,patch,https://bugzilla.mozilla.org/show_bug.cgi?id=1544195
 2019-06-26,piroor,mozilla/firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1561522
