@@ -1,3 +1,4 @@
 2019-07-01,fujimotos,winthreads.h,patch,https://locklessinc.com/about.shtml
 2019-07-03,ashie,OSSystems/meta-browser,patch,https://github.com/OSSystems/meta-browser/pull/282
 2019-07-05,piroor,https://addons.mozilla.org/firefox/addon/tab-open-close-control/,patch,email
+2019-07-05,piroor,mozilla/thunderbird,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1563665
