@@ -9,3 +9,4 @@
 2020-02-19,piroor,firefox,report,https://bugzilla.mozilla.org/show_bug.cgi?id=1618081
 2020-02-28,piroor,NiklasGollenstede/unload-tabs,patch,https://github.com/NiklasGollenstede/unload-tabs/pull/34
 2020-02-28,piroor,rNeomy/auto-tab-discard,patch,https://github.com/rNeomy/auto-tab-discard/pull/138
+2020-02-28,piroor,freddyb/webext-discard-tab,patch,https://github.com/freddyb/webext-discard-tab/pull/12
